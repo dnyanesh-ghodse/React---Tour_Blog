@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React---Tour_Blog/static/css/main.f377203a.chunk.css",
+    "main.js": "/React---Tour_Blog/static/js/main.a7105582.chunk.js",
+    "main.js.map": "/React---Tour_Blog/static/js/main.a7105582.chunk.js.map",
+    "runtime-main.js": "/React---Tour_Blog/static/js/runtime-main.b1a63556.js",
+    "runtime-main.js.map": "/React---Tour_Blog/static/js/runtime-main.b1a63556.js.map",
+    "static/js/2.c5ae91ed.chunk.js": "/React---Tour_Blog/static/js/2.c5ae91ed.chunk.js",
+    "static/js/2.c5ae91ed.chunk.js.map": "/React---Tour_Blog/static/js/2.c5ae91ed.chunk.js.map",
+    "index.html": "/React---Tour_Blog/index.html",
+    "precache-manifest.8a17f0c0eadfe41a6e132efcfc9f02cc.js": "/React---Tour_Blog/precache-manifest.8a17f0c0eadfe41a6e132efcfc9f02cc.js",
+    "service-worker.js": "/React---Tour_Blog/service-worker.js",
+    "static/css/main.f377203a.chunk.css.map": "/React---Tour_Blog/static/css/main.f377203a.chunk.css.map",
+    "static/js/2.c5ae91ed.chunk.js.LICENSE.txt": "/React---Tour_Blog/static/js/2.c5ae91ed.chunk.js.LICENSE.txt",
+    "static/media/Spinner.svg": "/React---Tour_Blog/static/media/Spinner.6f6e1281.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1a63556.js",
+    "static/js/2.c5ae91ed.chunk.js",
+    "static/css/main.f377203a.chunk.css",
+    "static/js/main.a7105582.chunk.js"
+  ]
+}
